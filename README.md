@@ -1,4 +1,4 @@
-# Cash-Register-Simulation
+# Cash Register Simulation
 
 ## Table of Contents
 - [Project Status](#project-status)
