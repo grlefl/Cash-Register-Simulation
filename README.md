@@ -8,7 +8,7 @@
 - [Results](#results)
 
 ## Project Status 
-This project is complete, but the 'Results' section needs to be updated.
+This project is complete. 'Results' section needs to be updated.
 
 ## Overview 
 A command-line program that simulates a cash register with the capability to process USD in a foreign country that uses Euros. The program receives the amount of USD to purchase an item and then calculates the correct amount of change to return in Euros.
@@ -21,3 +21,4 @@ This main part of the simulation takes place in the constructor of ChangeComputa
 ![image](https://github.com/grlefl/Cash-Register-Simulation/assets/124198528/ffd66de5-65e3-4db0-9ef2-d0d420b672a2)
 
 ## Results
+(incomplete)
