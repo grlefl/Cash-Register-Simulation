@@ -21,4 +21,4 @@ This main part of the simulation takes place in the constructor of ChangeComputa
 ![image](https://github.com/grlefl/Cash-Register-Simulation/assets/124198528/ffd66de5-65e3-4db0-9ef2-d0d420b672a2)
 
 ## Results
-(incomplete)
+(needs updating)
