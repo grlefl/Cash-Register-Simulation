@@ -8,7 +8,7 @@
 - [Results](#results)
 
 ## Project Status 
-This project is complete.
+This project is complete, but results section needs to be updated.
 
 ## Overview 
 This program simulates a cash register with the capability to process USD in a foreign country that uses Euros. The program receives the amount of USD to purchase an item and then calculates the correct amount of change to return in Euros.
