@@ -11,7 +11,7 @@
 This project is complete, but the 'Results' section needs to be updated.
 
 ## Overview 
-This program simulates a cash register with the capability to process USD in a foreign country that uses Euros. The program receives the amount of USD to purchase an item and then calculates the correct amount of change to return in Euros.
+A command-line program that simulates a cash register with the capability to process USD in a foreign country that uses Euros. The program receives the amount of USD to purchase an item and then calculates the correct amount of change to return in Euros.
 
 ## User Documentation
 The user must enter the amount of each USD currency paid to the cash register. If the user does not pay enough money, they must again enter the amount of each additional USD currency paid to the cash register. Upon paying enough money, the amount of each Euro currency in change will be dispensed. 
